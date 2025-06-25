@@ -1,7 +1,6 @@
 # Yelp Recommendation System Optimization
-
-*Hybrid Rating Prediction Approach*
 **USC DSCI 553 Competition Project**
+*Hybrid Rating Prediction Approach*
 
 ## 🎯 Project Overview
 
